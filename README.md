@@ -15,7 +15,7 @@
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" width="40 height="40 />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" width="40 height="40" />
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/>
