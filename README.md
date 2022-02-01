@@ -1,6 +1,6 @@
 # Hi There
 
-## I am is Zulfikar Ditya
+## My Name Is Zulfikar Ditya
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zulfikar-dityaa&show_icons=true)
 
