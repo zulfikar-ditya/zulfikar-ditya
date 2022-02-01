@@ -1,6 +1,7 @@
-# Hi There
+# Hi There!!!
 
 ## My Name Is Zulfikar Ditya
+## I am 18yo
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zulfikar-dityaa&show_icons=true)
 
