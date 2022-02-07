@@ -1,7 +1,8 @@
 # Hi There!!!
 
-## My Name Is Zulfikar Ditya
-## I am 18yo
+## My Name Is Zulfikar Ditya.
+### I am 18 years old.
+### I am from Indonesia.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zulfikar-dityaa&show_icons=true)
 
