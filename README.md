@@ -1,19 +1,18 @@
 # Hi There!!!
 
 ## My Name Is Zulfikar Ditya.
-### I am 18 years old.
-### I am from Indonesia.
 
+### My stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=zulfikar-dityaa&show_icons=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikar-dityaa&theme=vue">
 
-### Get In Touch
+### Reach Me !!!
 
 - > [telegram](https://www.t.me/Zulfikar_ditya)
 - > [instagram](https://www.instagram.com/zulfikar.ditya/)
 
-### language and tools
+### languages and tools
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
