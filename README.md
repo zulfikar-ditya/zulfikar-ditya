@@ -3,6 +3,8 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=zulfikar-dityaa" alt="visitors"/>   
 </p>
 
+# Hi 👋 My name is Zulfikar Ditya
+
 ![](./src/header_.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zulfikar+Ditya;+Welcome+to+My+Profile!;Love+to+learning+new+things+;Web+Development+enthusiast+)](https://git.io/typing-svg)
@@ -27,13 +29,14 @@
 
 ### 📈 GitHub Activity Graph:
 
-![Zulfikar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=zulfikar-dityaa&hide_border=true)
+<a href="http://www.github.com/zulfikar-dityaa"><img src="https://activity-graph.herokuapp.com/graph?username=zulfikar-dityaa&bg_color=181824&color=ef4444&line=0891b2&point=ef4444&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 | .                                                                                                                                        | .                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ![Zulfikar's github stats](https://github-readme-stats.vercel.app/api?username=zulfikar-dityaa&show_icons=true&include_all_commits=true) | ![Zulfikar's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikar-dityaa&layout=compact) |
+| <a href="http://www.github.com/zulfikar-dityaa"><img src="https://github-readme-stats.vercel.app/api?username=zulfikar-dityaa&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="zulfikar-dityaa's GitHub stats" /></a> | <a href="http://www.github.com/zulfikar-dityaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zulfikar-dityaa&stroke=ef4444&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ef4444&currStreakLabel=22c55e&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a> |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zulfikar-dityaa"></img>
+
+<a href="https://github.com/zulfikar-dityaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikar-dityaa&langs_count=5&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 **📫 How to Reach me:**
 
@@ -43,9 +46,6 @@
   </a>
   <a href="mailto:zulfikarditya@gmail.com" target="blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+6285937011237" alt="Connect on Whatsapp"> 
-    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" height="30"/> 
   </a>
   <a href="https://t.me/Zulfikar_ditya" target="blank">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"  alt="Telegram" height="30">
