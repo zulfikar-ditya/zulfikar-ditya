@@ -50,6 +50,9 @@
   <a href="https://t.me/Zulfikar_ditya" target="blank">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"  alt="Telegram" height="30">
   </a>
+    <a href="https://www.linkedin.com/in/zulfikar-ditya" target="blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"  alt="linked In" height="30">
+  </a>
 </p>
 
 ---
