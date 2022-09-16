@@ -3,7 +3,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=zulfikar-ditya" alt="visitors"/>   
 </p>
 
-# Hi 👋 My name is Zulfikar Ditya
+# Hi!!! Zulfikar Ditya
 
 ![](./src/header_.png)
 
@@ -38,7 +38,7 @@
 
 <a href="https://github.com/zulfikar-ditya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikar-ditya&langs_count=5&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-**📫 How to Reach me:**
+**📫 Find Me:**
 
 <p align="left">
   <a href="https://www.instagram.com/zulfikar.ditya/" target="blank">
