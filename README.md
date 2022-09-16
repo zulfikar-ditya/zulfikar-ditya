@@ -3,7 +3,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=zulfikar-ditya" alt="visitors"/>   
 </p>
 
-# Hi!!! Zulfikar Ditya
+# Hi Zulfikar Ditya here
 
 ![](./src/header_.png)
 
