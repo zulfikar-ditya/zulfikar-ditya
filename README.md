@@ -29,7 +29,7 @@
 
 ### 📈 GitHub Activity Graph:
 
-<a href="http://www.github.com/zulfikar-ditya"><img src="https://activity-graph.herokuapp.com/graph?username=zulfikar-ditya&bg_color=181824&color=ef4444&line=0891b2&point=ef4444&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Zulfikar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zulfikar-ditya&bg_color=0f0008&color=ffffff&line=c80eb9&point=28ccc1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | .                                                                                                                                        | .                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
