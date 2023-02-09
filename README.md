@@ -14,7 +14,6 @@
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
 ![Tailwind Css](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 ![Boostrap](https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg)
-![Yii Framework](https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg)
 ![React Js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 ![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
