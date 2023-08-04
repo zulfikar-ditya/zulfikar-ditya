@@ -5,7 +5,9 @@
 
 # Hi Zulfikar Ditya here
 
-![](./src/header_.png)
+<center>
+    <a href="https://app.daily.dev/zirpalafa"><img src="https://api.daily.dev/devcards/db9402cb346c42ccbd31992a0c1fa313.png?r=po6" width="400" alt="Zulfikar Ditya Antariksa's Dev Card"/></a>
+</center>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zulfikar+Ditya;+Welcome+to+My+Profile!;Love+to+learning+new+things+;Web+Development+enthusiast+)](https://git.io/typing-svg)
 
