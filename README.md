@@ -3,28 +3,9 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=zulfikar-ditya" alt="visitors"/>   
 </p>
 
-# Hi Zulfikar Ditya here
-
-<center>
-    <a href="https://app.daily.dev/zirpalafa"><img src="https://api.daily.dev/devcards/db9402cb346c42ccbd31992a0c1fa313.png?r=po6" width="400" alt="Zulfikar Ditya Antariksa's Dev Card"/></a>
-</center>
+# Hi Zulfikar here
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zulfikar+Ditya;+Welcome+to+My+Profile!;Love+to+learning+new+things+;Web+Development+enthusiast+)](https://git.io/typing-svg)
-
-### Languages And Tools
-
-![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
-![Tailwind Css](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-![Boostrap](https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg)
-![React Js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
-![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
-![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
-![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
-![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
-![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
-![Visual Studio Code](https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg)
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
 
 <!--   GitHub stats graph -->
 
