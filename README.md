@@ -3,11 +3,27 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=zulfikar-ditya" alt="visitors"/>   
 </p>
 
-# I am Zulfikar Ditya
+# 👋Hi, I’m Zulfikar Ditya  
+
+<p align="center">
+    <a href="https://github.com/zulfikar-ditya/zulfikar-ditya"><img src="./assets/LinkedIn%20cover%20-%201.png"></a>
+</p>
+
+**Backend Engineer | Laravel · Go · Node.js · PostgreSQL · Redis · Docker**
+
+I build backend systems focused on:
+- clean architecture
+- predictable deployments
+- performance & reliability
+- secure authentication & API design
+
+## 🛠 Tech Stack
+**Backend:** Laravel (PHP), Go (Fiber), Node.js (Nestjs, Fastify, Elysia, Hono)  
+**Databases:** PostgreSQL, MySQL, Redis, MongoDB, ClickHouse  
+**Infra:** Docker, Nginx, GitHub Actions (CI/CD), PM2  
+**Other:** Redis Queue, Caching, OAuth2, JWT, RBAC
 
 [![@zulfikarditya's Holopin board](https://holopin.io/api/user/board?user=zulfikarditya)](https://holopin.io/@zulfikarditya)
-
-## A Backend developer | 5+ Years of experience
 
 <!--   GitHub stats graph -->
 
